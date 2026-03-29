@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 1st year Engineering Student AI&ML<br>🌱 I’m currently learning Python<br><br>
+🔭 2nd year Engineering Student AI&ML<br>🌱 I’m currently learning Python<br><br>
 
 
 ## 🌐 Socials:
