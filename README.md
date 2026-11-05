@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 2nd year Engineering student.<br><br>🚀 Currently building:<br>-Web applications<br>-AI projects<br><br>💻 Tech Stack:<br>- Python<br>- JavaScript<br>- Flask<br>- MySQL<br>- HTML/CSS<br>- Git & GitHub<br><br>🌱 Currently learning:<br>- Full Stack Web Development<br>- Open Source Contribution<br>- DSA & Problem Solving<br><br><br>📫 Reach me:<br>- LinkedIn: www.linkedin.com/in/vidya-shree-g-s-3a2678307<br>- Email: your- vidyashreegsm@gmail.com
+I'm a 3nd year Engineering student.<br><br>🚀 Currently building:<br>-Web applications<br>-AI projects<br><br>💻 Tech Stack:<br>- Python<br>- JavaScript<br>- Flask<br>- MySQL<br>- HTML/CSS<br>- Git & GitHub<br><br>🌱 Currently learning:<br>- Full Stack Web Development<br>- Open Source Contribution<br>- DSA & Problem Solving<br><br><br>📫 Reach me:<br>- LinkedIn: www.linkedin.com/in/vidya-shree-g-s-3a2678307<br>- Email: your- vidyashreegsm@gmail.com
 
 
 ## 🌐 Socials:
